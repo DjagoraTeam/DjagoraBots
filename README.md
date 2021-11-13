@@ -1,5 +1,5 @@
 # 🤖DjagoraBots🤖
-DjagoraBots/Project/Images/
+DjagoraBots/Project/Images/03.jpeg
 
 
 ## 🔗 Links :

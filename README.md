@@ -1,5 +1,6 @@
 # 🤖DjagoraBots🤖
-03.jpeg
+DjagoraBots/Project/Images/
+
 
 ## 🔗 Links :
 https://youtu.be/VgW_edSw300
